@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1567736244 source:c:\users\martín onetto\documents\c\calculadora\operaciones.c
+1567818127 source:c:\users\martín onetto\documents\c\calculadora\operaciones.c
 	<stdio.h>
 	"inc/operaciones.h"
 
-1567736108 c:\users\martín onetto\documents\c\calculadora\inc\operaciones.h
+1567818127 c:\users\martín onetto\documents\c\calculadora\inc\operaciones.h
 	<stdlib.h>
 
-1567728849 source:c:\users\martín onetto\documents\c\calculadora\main.c
+1567817747 source:c:\users\martín onetto\documents\c\calculadora\main.c
 	<stdio.h>
 	<stdlib.h>
 	"inc/operaciones.h"

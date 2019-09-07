@@ -20,14 +20,6 @@ int pedirOperacion();
  * \return El resultado de la/s operacion
  */
 
-void operacion (int accionar);
-
-/**
- * \brief Suma dos numeros y devuelve el resultado
- * \param numero1 El primer sumando
- * \param numero2 El segundo sumando
- * \return El total
- */
 
 int suma (int numero1, int numero2);
 
@@ -65,5 +57,5 @@ float division (int numero1, int numero2);
  \ return El factorial de el primer y segundo numero
  */
 
-int factorial (int numero1, int numero2);
+int factorial (int numero1);
 
